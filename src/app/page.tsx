@@ -780,7 +780,7 @@ export default function HomePage() {
                 </p>
                 <a className="flex items-center gap-4" href="tel:+919036767007"><Phone className="text-gold" /> +91 90367 67007</a>
                 <a className="flex items-center gap-4" href="tel:+917892585435"><Phone className="text-gold" /> +91 78925 85435</a>
-                <a className="flex items-center gap-4" href="mailto:abcd@gmail.com"><BookOpen className="text-gold" /> abcd@gmail.com</a>
+                <a className="flex items-center gap-4" href="mailto:contact@meghabuildersanddevelopers@gmail.com"><BookOpen className="text-gold" /> contact@meghabuildersanddevelopers@gmail.com</a>
               </div>
               <div className="mt-10 flex flex-col gap-4 sm:flex-row">
                 <a href="https://wa.me/919036767007" className="luxury-button inline-flex min-h-14 items-center justify-center gap-3 bg-gold px-8 text-sm font-bold uppercase tracking-[0.18em] text-forest">
